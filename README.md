@@ -25,3 +25,6 @@
 
 ## Lekce 03: Whisper
 {% include_relative 03_whisper/README.md %}
+
+## Uprava
+Musím to upraviť
